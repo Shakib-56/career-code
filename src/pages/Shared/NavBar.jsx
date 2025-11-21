@@ -47,6 +47,10 @@ function NavBar() {
           {" "}
           Resgister
         </NavLink>
+        <NavLink className="btn" to="/signin">
+          {" "}
+          Sign In
+        </NavLink>
       </div>
     </div>
   );
